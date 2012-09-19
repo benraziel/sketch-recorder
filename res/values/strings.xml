@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SketchRecorder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_save">Save</string>
+    <string name="title_activity_main">Sketch Recorder</string>
+
+</resources>
